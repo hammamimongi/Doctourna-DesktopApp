@@ -11,14 +11,14 @@ Après avoir un contrôle de saisie sur le formulaire d'ajout , l'article reste 
 - les articles recommandé
 - les articles en attente d'acceptation
 - l'ajout / modification / suppression des articles
-concernant la partie back-office 
+### concernant la partie back-office 
 l’administrateur peut 
 accepté / refusé l’ajout d’un article
 voir la #books liste des articles
 ajouter une catégorie 
 supprimer ou modifier une catégorie 
 la catégorie plus utilisé durant le mois actuelle
-concernant les API utilisé 
+### concernant les API utilisé 
 SPRINTWEB : pagination “KnpPaginatorBundle”
 SPRINT JAVA  : qr code API avec zixing / Push notification avec controlsFx / pdf / Rating Star
 SPRINT MOBILE : upload image Api FileChooser / SMS twilio Api
