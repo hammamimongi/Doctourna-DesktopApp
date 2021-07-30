@@ -12,16 +12,16 @@ Après avoir un contrôle de saisie sur le formulaire d'ajout , l'article reste 
 - les articles en attente d'acceptation
 - l'ajout / modification / suppression des articles
 ### concernant la partie back-office 
-l’administrateur peut 
-accepté / refusé l’ajout d’un article
-voir la #books liste des articles
-ajouter une catégorie 
-supprimer ou modifier une catégorie 
-la catégorie plus utilisé durant le mois actuelle
+- l’administrateur peut :
+  - accepté / refusé l’ajout d’un article
+  - voir la #books liste des articles
+  - ajouter une catégorie 
+  - supprimer ou modifier une catégorie 
+  - la catégorie plus utilisé durant le mois actuelle
 ### concernant les API utilisé 
-SPRINTWEB : pagination “KnpPaginatorBundle”
-SPRINT JAVA  : qr code API avec zixing / Push notification avec controlsFx / pdf / Rating Star
-SPRINT MOBILE : upload image Api FileChooser / SMS twilio Api
+- SPRINTWEB : pagination “KnpPaginatorBundle”
+- SPRINT JAVA  : qr code API avec zixing / Push notification avec controlsFx / pdf / Rating Star
+- SPRINT MOBILE : upload image Api FileChooser / SMS twilio Api
 ![Desktop-details-affiche](https://user-images.githubusercontent.com/79050870/127688402-14fa3400-b3c1-4c8d-99cb-e443de7bac2b.png)
 ![Desktop admin](https://user-images.githubusercontent.com/79050870/127688412-f4922723-25c2-420b-9204-2663b6e3fe95.png)
 ![Desktop details](https://user-images.githubusercontent.com/79050870/127688414-69ddec8f-85f0-4b00-b76e-0313b8ec385e.png)
